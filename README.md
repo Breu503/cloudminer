@@ -1,2 +1,2 @@
-CloudMiner
+# *CloudMiner*
 ==========
